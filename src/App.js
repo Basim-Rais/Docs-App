@@ -1,6 +1,6 @@
-import React from 'react'
-import Background from './components/Background'
-import ForeGround from './components/ForeGround'
+import React from 'react';
+import Background from './components/Background';
+import ForeGround from './components/ForeGround';
 
 
 const App = () => {
